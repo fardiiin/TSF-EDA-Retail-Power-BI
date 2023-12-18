@@ -1,1 +1,1 @@
-# Exploratory Data Analysis - Retail (Power BI)
+# Exploratory Data Analysis using Power BI - Retail
