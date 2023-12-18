@@ -1,1 +1,1 @@
-# TSF-EDA-Retail-Power-BI
+# Exploratory Data Analysis - Retail (Power BI)
